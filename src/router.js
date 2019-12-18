@@ -12,9 +12,9 @@ export default new Router({
       component: resolve => require(['@/views/Home.vue'], resolve)
     },
     {
-      path: '/page1',
-      name: 'page1',
-      component: resolve => require(['@/views/page1.vue'], resolve)
+      path: '/deserialization',
+      name: 'deserialization',
+      component: resolve => require(['@/views/Deserialization.vue'], resolve)
     },
     {
       path: '/page2',

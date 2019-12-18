@@ -6,7 +6,7 @@
       </div>
       <div class="nav fl">
         <el-menu :default-active="activeIndex" class="fl" mode="horizontal" @select="handleSelect">
-          <el-menu-item index="page1">{{$t('nav.selectItem')}}</el-menu-item>
+          <el-menu-item index="deserialization">{{$t('nav.selectItem')}}</el-menu-item>
           <!--<el-menu-item index="page2">{{$t('nav.issueToken')}}</el-menu-item>-->
         </el-menu>
         <div class="user fr tc">
@@ -83,7 +83,7 @@
         isMenu: true,//手机版菜单显示及隐藏
       };
     },
-    components: {Height,Password},
+    components: {Height, Password},
     created() {
     },
     mounted() {
@@ -110,8 +110,8 @@
        * @param key
        */
       handleSelect(key) {
-        if (key === 'page1') {
-          this.toUrl('page1')
+        if (key === 'deserialization') {
+          this.toUrl('deserialization')
         } else if (key === 'page2') {
           this.toUrl('page2')
         } else if (key === 'userInfo') {
@@ -327,6 +327,7 @@
       }
     }
   }
+
   .el-message-box__wrapper {
     .el-message-box__content {
       .el-message-box__message {

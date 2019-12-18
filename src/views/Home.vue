@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    home
+    <p>NULS 开发者工具</p>
   </div>
 </template>
 
