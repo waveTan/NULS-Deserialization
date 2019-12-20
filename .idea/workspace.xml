@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3079ceed-cab2-40ce-aa00-52021fa16298" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/views/Deserialization.vue" afterPath="$PROJECT_DIR$/src/views/Deserialization.vue" />
-    </list>
+    <list default="true" id="3079ceed-cab2-40ce-aa00-52021fa16298" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -73,8 +70,8 @@
       <file leaf-file-name="Deserialization.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/Deserialization.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="338">
+              <caret line="86" column="35" lean-forward="false" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
               <folding>
                 <element signature="e#2015#2240#0" expanded="false" />
                 <element signature="e#3353#3428#0" expanded="false" />
@@ -268,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1576648437796</updated>
       <workItem from="1576648439523" duration="5361000" />
-      <workItem from="1576718588022" duration="2433000" />
+      <workItem from="1576718588022" duration="3032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7794000" />
+    <option name="totallyTimeSpent" value="8393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -408,8 +405,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Deserialization.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="338">
+          <caret line="86" column="35" lean-forward="false" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
           <folding>
             <element signature="e#2015#2240#0" expanded="false" />
             <element signature="e#3353#3428#0" expanded="false" />
