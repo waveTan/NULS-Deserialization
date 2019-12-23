@@ -196,8 +196,8 @@
 
   .header {
     border-bottom: 1px solid #bebebe;
-    height: 100px;
-    line-height: 100px;
+    height: 80px;
+    line-height: 80px;
     @media screen and (max-width: 1024px) {
       height: 60px;
       line-height: 60px;
@@ -219,7 +219,7 @@
     }
     .nav {
       width: 1095px;
-      height: 98px;
+      height: 78px;
       @media screen and (max-width: 1200px) {
         width: 920px;
       }
@@ -229,13 +229,13 @@
       .el-menu.el-menu--horizontal {
         border-bottom: 0;
         width: 850px;
-        height: 99px;
+        height: 79px;
         @media screen and (max-width: 1200px) {
           width: 680px;
         }
         .el-menu-item {
-          height: 99px;
-          line-height: 100px;
+          height: 79px;
+          line-height: 80px;
           padding: 0;
           margin: 0 25px;
           font-size: 18px;
@@ -284,7 +284,7 @@
         }
         .language {
           width: 70px;
-          line-height: 99px;
+          line-height: 80px;
           margin-left: 20px;
         }
       }
